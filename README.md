@@ -37,3 +37,8 @@ OnGUI で各種コントロールを描画しています。
 ## ScreenShot
 
 ![](https://github.com/XJINE/Unity3D_ImageCaptureTool/blob/master/screenshot.png)
+
+## Version
+
+- 2016/05/20 v 1.0 : 初回リリース。
+- 2016/06/05 v 1.1 : WaitForEndOfFrame によるレンダリング待機を追加。
